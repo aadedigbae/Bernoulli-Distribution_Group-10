@@ -6,3 +6,7 @@ Characteristics of the Bernoulli Distribution:
 Binary outcomes: The result of a Bernoulli trial can only be one of two possibilities (typically coded as 1 for success, and 0 for failure).
 Single parameter ( p ): The probability of success, with the complementary probability ( (1 - p) ) being the probability of failure.
 Single trial: A Bernoulli distribution models just one trial, and we’re interested in whether it results in success or failure.
+
+
+Our presentation video here
+[Click here to access video](https://drive.google.com/file/d/1dy7KyQJqpixtHG69HSUty6meV3Ulde2H/view?usp=sharing)
